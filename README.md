@@ -1,5 +1,3 @@
-## 🧭 Navigation Help
-
 ### Study-Related Things
 
 - [Documents, Summaries and More](https://github.com/fabianboesiger/documents)
