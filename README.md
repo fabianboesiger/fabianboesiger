@@ -1,16 +1,18 @@
-### Hi there 👋
+## 🧭 Navigation Help
 
-<!--
-**fabianboesiger/fabianboesiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Study-Related Things
 
-Here are some ideas to get you started:
+- [Documents, Summaries and More](https://github.com/fabianboesiger/documents)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Trading-Related Things
+
+- [Unofficial Rust FTX Bindings](https://github.com/fabianboesiger/ftx)
+- [Deprecated Trading Bot #1](https://github.com/fabianboesiger/trader-deprecated-1)
+- [Deprecated Trading Bot #2](https://github.com/fabianboesiger/trader-deprecated-2)
+- [Deprecated Trading Bot #3](https://github.com/fabianboesiger/trader-deprecated-3)
+- [Deprecated Trading Bot #4](https://github.com/fabianboesiger/trader-deprecated-4)
+- ... Surely next time it'll work 🤨
+
+### Astrophotograpy-Related Things
+
+- [Image Merging Application](https://github.com/fabianboesiger/strata)
