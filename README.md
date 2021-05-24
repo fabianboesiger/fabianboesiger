@@ -11,6 +11,7 @@
 - [Deprecated Trading Bot #4](https://github.com/fabianboesiger/trader-deprecated-4)
 - ... Surely next time it'll work 🤨
 
-### Astrophotograpy-Related Things
+### Other Things
 
-- [Image Merging Application](https://github.com/fabianboesiger/strata)
+- [Image Merging Application](https://github.com/fabianboesiger/strata) *merges overlapping images into a single one.*
+- [Z-Table](https://github.com/fabianboesiger/z-table) *implements simple standard normal table lookup utilities.*
