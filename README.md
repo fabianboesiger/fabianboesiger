@@ -9,6 +9,7 @@
 - [Deprecated Trading Bot #2](https://github.com/fabianboesiger/trader-deprecated-2)
 - [Deprecated Trading Bot #3](https://github.com/fabianboesiger/trader-deprecated-3)
 - [Deprecated Trading Bot #4](https://github.com/fabianboesiger/trader-deprecated-4)
+- [Deprecated Trading Bot #5](https://github.com/fabianboesiger/trader-deprecated-5)
 - ... Surely next time it'll work 🤨
 
 ### Other Things
