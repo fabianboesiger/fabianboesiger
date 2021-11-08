@@ -16,4 +16,4 @@
 
 - [Image Merging Application](https://github.com/fabianboesiger/strata) *merges overlapping images into a single one.*
 - [Z-Table](https://github.com/fabianboesiger/z-table) *implements simple standard normal table lookup utilities.*
-- [Debug PLotter](https://github.com/fabianboesiger/debug-plotter) *Rust crate that provides a convenient macro to quickly plot variables.*
+- [Debug PLotter](https://github.com/fabianboesiger/debug-plotter) *provides a convenient macro to quickly plot variables.*
